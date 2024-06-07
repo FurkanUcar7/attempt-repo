@@ -1,4 +1,3 @@
 selam
-asdasd
-sdfsdf
-s
+
+buraya yeni şeyler eklendi
